@@ -19,7 +19,7 @@ class _SpeechToTextScreenState extends State<SpeechToTextScreen> {
 
 
   stt.SpeechToText _speech;
-  String resultText = "your speech will apear here";
+  String resultText = "your speech will appear here";
   bool _isListening=false;
   double _confidence=1;
 
